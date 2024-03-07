@@ -1,5 +1,5 @@
 ---
-title: What are LLM-s?
+title: Glossary
 layout: default
 nav_order: 7
 ---

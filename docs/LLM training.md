@@ -1,5 +1,5 @@
 ---
-title: What are LLM-s?
+title: LLM training
 layout: default
 nav_order: 3
 ---

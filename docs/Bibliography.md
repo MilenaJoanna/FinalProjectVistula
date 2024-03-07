@@ -1,5 +1,5 @@
 ---
-title: What are LLM-s?
+title: Bibliography
 layout: default
 nav_order: 8
 ---
