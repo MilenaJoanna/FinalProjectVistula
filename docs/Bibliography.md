@@ -4,6 +4,8 @@ layout: default
 nav_order: 8
 ---
 
+# Bibliography
+
 - [Artificial Intelligence, Machine Learning , Deep Learning, GenAI and more](https://medium.com/womenintechnology/ai-c3412c5aa0ac)
 
 - [AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference?](https://www.ibm.com/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks/)
