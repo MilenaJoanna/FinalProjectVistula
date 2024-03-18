@@ -4,6 +4,7 @@ layout: default
 nav_order: 7
 ---
 
+# Glossary
 <dl>
   <dt><strong>Artificial Intelligence (AI)</strong></dt>
   <dd>A branch of computer science which aims to simulate human intelligence and problem-solving capabilities in machines.</dd>
