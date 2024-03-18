@@ -7,6 +7,8 @@ nav_order: 6
 # Challenges and limitations of LLM-s
 
 
+
+
 While LLM-s have many advantages and may be used for different positive purposes, they also come with their own challenges and limitations like:
 
 - **bias** - depending on what is in the data the LLM-s were trained on, the possible answers may be biased or even discriminatory.
