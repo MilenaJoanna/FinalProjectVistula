@@ -20,7 +20,7 @@ nav_order: 7
   <dt><strong>Neural Network (NN)</strong></dt>
   <dd>A group of interconnected artificial neurons that teaches computers to process data in a way that is inspired by the neurons in the human brain.</dd>
   <dt><strong>Deep Learning (DL)</strong></dt>
-  <dd>A branch of machine learning that uses multiple layers of neural networks to learn from data.</dd>
+  <dd>A branch of machine learning that uses multiple layers of artificial neural networks to learn from data.</dd>
   <dt><strong>Generative AI (GenAi)</strong><dt>
   <dd>A subset of AI capable of creating new content (text, images, audio, videos etc.) that resembles real-world data.</dd>
 </dl>
