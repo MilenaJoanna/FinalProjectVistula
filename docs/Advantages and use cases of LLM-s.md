@@ -4,6 +4,8 @@ layout: default
 nav_order: 5
 ---
 
+# Advantages and use cases of LLM-s
+
 LLM-s have many advantages like:
 
 - **efficiency** - thanks to LLM-s tasks can be automated, thus reducing the manual human effort.
