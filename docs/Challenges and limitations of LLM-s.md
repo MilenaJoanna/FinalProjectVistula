@@ -6,7 +6,7 @@ nav_order: 6
 
 # Challenges and limitations of LLM-s
 
-<p style=padding:25px>While LLM-s have many advantages and may be used for different positive purposes, they also come with their own challenges and limitations like:</p>
+<p style= "padding: 35px;">While LLM-s have many advantages and may be used for different positive purposes, they also come with their own challenges and limitations like:</p>
 
 - **bias** - depending on what is in the data the LLM-s were trained on, the possible answers may be biased or even discriminatory.
 - **misinformation and hallucinations** - LLM-s may generate false or misleading information. It can have a serious impact especially in fields like healthcare, engineering or law since they require high levels of accuracy and can seriously influence people's lives.
