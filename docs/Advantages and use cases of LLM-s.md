@@ -12,7 +12,7 @@ nav_order: 5
 - **efficiency** - thanks to LLM-s tasks can be automated, thus reducing the manual human effort.
 - **scalability** - LLM-s can be scaled to handle large amounts of data.
 - **flexibility** - LLMs-s can be adjusted to specific use cases and needs.  
-- **improved user experience** - LLM-s can increase user's satisfaction while interacting with chatbots, virtual assistants etc. providing more context-aware responses.
+- **improved user experience** - LLM-s can increase user's satisfaction, for example by providing more context-aware responses.
 
 <p style= "padding: 35px 25px 5px;">Large language models may be used for many purposes, by individuals as well as enterprises. The most common applications are:</p>
 
