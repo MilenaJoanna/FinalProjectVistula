@@ -7,7 +7,7 @@ has_children: true
 
 # How do LLM-s work?
 
-![alt text](HowDoLLMsWork.jpg)
+![how do LLM-s work](HowDoLLMsWork.jpg)
 
 
 LLM-s are a dynamically developing field of artificial intelligence.
