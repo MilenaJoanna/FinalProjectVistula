@@ -7,14 +7,14 @@ nav_order: 5
 # Advantages and use cases of LLM-s
 
 
-LLM-s have many advantages like:
+<p style= "padding: 35px;">LLM-s have many advantages like:</p>
 
 - **efficiency** - thanks to LLM-s tasks can be automated, thus reducing the manual human effort.
 - **scalability** - LLM-s can be scaled to handle large amounts of data.
 - **flexibility** - LLMs-s can be adjusted to specific use cases and needs.  
 - **improved user experience** - LLM-s can increase user's satisfaction while interacting with chatbots, virtual assistants etc. providing more context-aware responses.
 
-Large language models may be used for many purposes, by individuals as well as enterprises. The most common applications are:
+<p style= "padding: 35px;">Large language models may be used for many purposes, by individuals as well as enterprises. The most common applications are:</p>
 
 - **content generation** - LLM-s can create human-like text like product descriptions, blog posts, news articles, poems, scripts and many more. They can also rephrase text while preserving its original meaning.
 - **content summarization** - LLM-s can summarize lengthy texts and extract the most important pieces of information.
