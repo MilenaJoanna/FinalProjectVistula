@@ -8,7 +8,7 @@ nav_order: 6
 
 <p style= "padding: 35px 25px 5px;">While LLM-s have many advantages and may be used for different positive purposes, they also come with their own challenges and limitations like:</p>
 
-- **misinformation and hallucinations** - LLM-s may generate false or misleading information. That can have a serious impact especially in fields like healthcare, engineering or law, which require high levels of accuracy. Generating and publishing factually incorrect content can put at rish people's lives or health, or cause costly damage to equipment.
+- **misinformation and hallucinations** - LLM-s may generate false or misleading information. That can have a serious impact especially in fields like healthcare, engineering or law, which require high levels of accuracy. Generating and publishing factually incorrect content can put at risk people's lives or health, or cause costly damage to equipment.
 - **stale data** - if LLM-s don't have access to real-time facts and events, the generated answers are only as up-to-date as the training data they were trained on.
 - **bias** - depending on what is in the data the LLM-s were trained on, the possible answers may be biased or even discriminatory, or apply only to the parts of the world where the majority of training data was harvested.
 - **glitch tokens** - LLM-s may contain glitch tokens which are specific words or strings that cause them to behave in unexpected and often nonsensical ways, for example repeat certain phrases not related to the question.
