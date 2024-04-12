@@ -37,7 +37,6 @@ nav_order: 2
   3. **multitasking** - checks how LLM-s can handle different tasks requiring knowledge from different fields, like math, law, history, geography etc., all at once.
 
 <br>
-<br>
 
 Both intrinsic and extrinsic evaluation methods have their pros and cons. 
 
