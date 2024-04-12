@@ -5,7 +5,9 @@ nav_order: 3
 has_children: true
 ---
 
-![LLM training](LLM-training.jpg)
+# LLM training
+
+<img src="LLM-training.jpg" alt="Girl in a jacket" width="400" height="400">
 
 Just like with learning any new skill, also the LLM-s need to undergo a training process first to develop their full potential.
 
