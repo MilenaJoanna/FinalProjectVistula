@@ -21,6 +21,9 @@ nav_order: 7
   <dt><strong>Generative AI (GenAi)</strong></dt>
   <dd>A subset of AI capable of creating new content (text, images, audio, videos etc.) that resembles real-world data.</dd>
 
+  <dt><strong>Hugging Face</strong></dt>
+  <dd>Hugging Face, Inc. is a company from New York City that makes tools for building apps with machine learning. It is known for its transformers library, used for language processing, and the platform where people can share ML models and data.<dd>
+
   <dt><strong>Machine Learning (ML)</strong></dt>
   <dd>A subfield of artificial intelligence that uses algorithms that learn from patterns in data to make predictions without being explicitly programmed.</dd>
 
@@ -29,6 +32,9 @@ nav_order: 7
   
   <dt><strong>Neural Network (NN)</strong></dt>
   <dd>A group of interconnected artificial neurons that teaches computers to process data in a way that is inspired by the neurons in the human brain.</dd> 
+
+<dt><strong>Reinforcement Learning from Human Feedback (RLHF)</strong></dt>
+  <dd>A machine learning technique where an agent learns from feedback directly provided by humans instead of predefined rewards. This approach helps machines learn effectively in complex environments where traditional signals may be sparse or unreliable.</dd> 
 
   <dt><strong>Transformer</strong></dt>
   <dd>A deep learning model designed for various NLP tasks, such as language translation, text summarization, and language understanding. It relies on a mechanism called self-attention to process input sequences and capture relationships between different words or tokens.</dd> 
