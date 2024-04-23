@@ -36,14 +36,14 @@ nav_order: 2
    
   3. **multitasking** - checks how LLM-s can handle different tasks requiring knowledge from different fields, like math, law, history, geography etc., all at once.
 
-<br>
+<br> 
 
-Both intrinsic and extrinsic evaluation methods have their pros and cons. 
+  Both intrinsic and extrinsic evaluation methods have their pros and cons. 
 
-Intrinsic methods cope well with assessing the effectiveness of individual NLP components but they may not show the model's performance in real-life applications. 
+  Intrinsic methods cope well with assessing the effectiveness of individual NLP components but they may not show the model's performance in real-life applications. 
 
-On the other hand, extrinsic methods take into account how well the model works in a wider range of situations but it usually takes more effort and time to conduct them and they may also be quite subjective. 
+  On the other hand, extrinsic methods take into account how well the model works in a wider range of situations but it usually takes more effort and time to conduct them and they may also be quite subjective. 
 
-Which one is optimal to utilize depends on what needs to be tested and how the model will be used. Usually using a combination of both methods gives a clear picture of what the language model can and can't do.
+  Which one is optimal to utilize depends on what needs to be tested and how the model will be used. Usually using a combination of both methods gives a clear picture of what the language model can and can't do.
 
 
