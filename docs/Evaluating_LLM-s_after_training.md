@@ -7,9 +7,11 @@ nav_order: 2
 
 # Evaluating LLM-s after training
 
-<p style= "padding: 35px 5px 5px;">Like any other machine learning model, the LLM-s need to be evaluated after they are trained to see if the training was successful.</p>
-
-<p style= "padding: 35px 5px 5px;">For LLM-s there are 2 main types of evaluation methods - intrinsic and extrinsic:</p>
+   
+<p style= "padding: 35px 25px 10px;">Like any other machine learning model, the LLM-s need to be evaluated after they are trained to see if the training was successful.</p>
+   
+   
+<p style= "padding: 10px 25px 10px;">For LLM-s there are 2 main types of evaluation methods - intrinsic and extrinsic:
 
 - **intrinsic** - the language model is evaluated only on specific types of tasks which are directly related to its training objectives.
 
@@ -22,7 +24,6 @@ nav_order: 2
   3. **BLEU (Bilingual Evaluation Understudy)** - is a common measure in machine translation. It looks at the translated text and compares it to one or more reference translations to see how similar they are.  
    
   4. **ROUGE (Recall-Oriented Understudy for Gisting Evaluation)** - checks how good LLM-s summarize the texts.
-   <br>
    <br>
    
 
@@ -38,12 +39,12 @@ nav_order: 2
 
 <br> 
 
-  Both intrinsic and extrinsic evaluation methods have their pros and cons. 
+  <p style= "padding-left: 35px;"> Both intrinsic and extrinsic evaluation methods have their pros and cons.</p>
 
-  Intrinsic methods cope well with assessing the effectiveness of individual NLP components but they may not show the model's performance in real-life applications. 
+  <p style= "padding-left: 35px;">Intrinsic methods cope well with assessing the effectiveness of individual NLP components but they may not show the model's performance in real-life applications.</p>
 
-  On the other hand, extrinsic methods take into account how well the model works in a wider range of situations but it usually takes more effort and time to conduct them and they may also be quite subjective. 
+  <p style= "padding-left: 35px;">On the other hand, extrinsic methods take into account how well the model works in a wider range of situations but it usually takes more effort and time to conduct them and they may also be quite subjective.</p> 
 
-  Which one is optimal to utilize depends on what needs to be tested and how the model will be used. Usually using a combination of both methods gives a clear picture of what the language model can and can't do.
+  <p style= "padding-left: 35px;">Which one is optimal to utilize depends on what needs to be tested and how the model will be used. Usually using a combination of both methods gives a clear picture of what the language model can and can't do.</p>
 
 
