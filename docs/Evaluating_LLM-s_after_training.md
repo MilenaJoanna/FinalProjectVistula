@@ -11,7 +11,7 @@ nav_order: 2
 <p style= "padding: 35px 25px 10px;">Like any other machine learning model, the LLM-s need to be evaluated after they are trained to see if the training was successful.</p>
    
    
-<p style= "padding: 10px 25px 10px;">For LLM-s there are 2 main types of evaluation methods - intrinsic and extrinsic:
+<p style= "padding: 10px 25px 10px;">For LLM-s there are 2 main types of evaluation methods - intrinsic and extrinsic:</p>
 
 - **intrinsic** - the language model is evaluated only on specific types of tasks which are directly related to its training objectives.
 
