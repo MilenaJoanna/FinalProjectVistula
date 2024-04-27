@@ -38,4 +38,4 @@ nav_order: 7
 
   <dt><strong>Transformer</strong></dt>
   <dd>A deep learning model designed for various NLP tasks, such as language translation, text summarization, and language understanding. It relies on a mechanism called self-attention to process input sequences and capture relationships between different words or tokens.</dd> 
-</dl> 
+ 
