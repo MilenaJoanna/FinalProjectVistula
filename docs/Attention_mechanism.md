@@ -21,7 +21,7 @@ The attention mechanism used in the transformer architecture solved the both iss
 
 The attention layers that make it happen are located in the **encoder** and the **decoder**.
 
-![attention mechanism](AttentionMechanism-1.png)
+![alt attention mechanism](AttentionMechanism-1.png)
 
 A lot is happening inside an encoder and a decoder, and that's why we won't go into too much detail because it's beyond the beginner level.
 

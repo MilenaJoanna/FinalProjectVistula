@@ -14,7 +14,7 @@ nav_order: 1
 
 The simplified version of the transformer architecture looks like this:
 
-![transformer architecture simplified](TransformerArchitectureSimplified.webp)
+![alt transformer architecture simplified](TransformerArchitectureSimplified.webp)
 
 Let's take a look at the components that make up this architecture:
 
