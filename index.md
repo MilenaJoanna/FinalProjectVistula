@@ -6,7 +6,7 @@ nav_order: 1
 
 # What are LLM-s?
 
-<p style= "padding: 35px 0px 5px"> LLM-s are a bit like ogres. Why? Because ogres are like onions and onions have layers. So do LLM-s :)</p>
+<p style= "padding: 35px 0px 5px"> LLM-s are a bit like ogres. Why? Because ogres are like onions. <q>Onions have layers. Ogres have layers.</q> So do LLM-s :)</p>
 
 In a broad sense large language models are an example of **artificial intelligence (AI)** because they aim to simulate human intelligence and skills in a computer system. LLM-s are able to perform language tasks like conversational dialogue, translations or content creation, just like humans do.
 
@@ -16,7 +16,7 @@ LLM-s also use artificial **neural networks** that mimic the way human brain cel
 
 Neural networks make up the backbone of the **deep learning** architecture. It is called "deep" because it consists of several (for example several dozens) hidden layers that learn from the vast amounts of data.
 
-At its core, LLM-s are **generative AI**. Generative AI are deep-learning models that can generate high-quality content, such as text, images, audio, videos etc. based on the data they were trained on.
+At its core, LLM-s are **generative AI**. Generative AI are deep-learning models that can generate high-quality content, such as texts, images, audios, videos etc. based on the data they were trained on.
 
  
 ![large language models in context](./images/LLMsInContext.webp) 
