@@ -31,3 +31,8 @@ nav_order: 6
 - **skill degradation** - if not used properly, LLM-s may contribute to skill reduction in students and employees who rely overly on LLMs for writing content or code, which in turn decreases their learning, writing and programming skills.
 - **job displacement** - innovations like LLM-s and, more generally, AI are expected to drastically change or replace some of the job roles.
 - **impact on the environment** - developing LLM-s requires considerable computational resources, which causes energy consumption and a large carbon footprint.
+
+
+  <p style= "padding: 25px 5px 10px;"> Undoubtedly, the greatest challenge of all, seems to be the further development of LLM-s and everything that will come with it. Apart from many undeniable advantages, LLM-s can also bring some unexpected risks.
+
+ 
