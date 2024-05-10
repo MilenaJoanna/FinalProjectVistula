@@ -8,8 +8,8 @@ has_children: true
 # LLM training
 
 <figure>
-  <img src="../images/LLM-training.jpg" alt="LLM training">
-  <figcaption>source: freepik.com</figcaption>
+  <img src="../images/large-language-models-training.webp" alt="LLM training">
+  <figcaption>source: https://em360tech.com/tech-article/large-language-model)</figcaption>
 </figure>
 
 Just like with learning any new skill, also the LLM-s need to undergo a training process first to develop their full potential.
