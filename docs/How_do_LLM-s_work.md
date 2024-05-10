@@ -5,7 +5,6 @@ nav_order: 2
 has_children: true
 ---
 
-# How do LLM-s work?
 
 <figure>
   <img src="../images/HowLLMsWork.webp" alt="How do LLM-s work">
@@ -14,7 +13,7 @@ has_children: true
 
 LLM-s are a dynamically developing field of artificial intelligence.
 
-The main elements that significantly improved the tasks involving processing sequences, such as natural language processing, turned out to be a deep learning architecture called **transformer** and the **attention mechanism**.
+<p style= "padding: 5px 15px 5px 0px;">The main elements that significantly improved the tasks involving processing sequences, such as natural language processing, turned out to be a deep learning architecture called <b>transformer</b> and the <b>attention mechanism</b>.</p>
 
 
  
