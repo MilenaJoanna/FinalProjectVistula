@@ -7,7 +7,10 @@ has_children: true
 
 # How do LLM-s work?
 
-![alt how do LLM-s work](HowDoLLMsWork.jpg)
+<figure>
+  <img src="../images/HowLLMsWork.webp" alt="How do LLM-s work">
+  <figcaption>source: https://scientyficworld.org/how-do-large-language-models-work/ </figcaption>
+</figure>
 
 LLM-s are a dynamically developing field of artificial intelligence.
 
