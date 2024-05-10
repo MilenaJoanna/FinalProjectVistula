@@ -14,7 +14,10 @@ nav_order: 1
 
 The simplified version of the transformer architecture looks like this:
 
-![alt transformer architecture simplified](TransformerArchitectureSimplified.webp)
+<figure>
+  <img src="../images/TransformerArchitectureSimplified.webp" alt="Transformer Architecture Simplified">
+  <figcaption>source: https://rpradeepmenon.medium.com/introduction-to-large-language-models-and-the-transformer-architecture-534408ed7e61 </figcaption>
+</figure>
 
 Let's take a look at the components that make up this architecture:
 
