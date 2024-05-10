@@ -18,5 +18,7 @@ Neural networks make up the backbone of the **deep learning** architecture. It i
 
 At its core, LLM-s are **generative AI**. Generative AI are deep-learning models that can generate high-quality content, such as texts, images, audios, videos etc. based on the data they were trained on.
 
- 
-![alt large language models in context](./images/LLMsInContext.webp) 
+<figure>
+  <img src="./images/LLMsInContext.webp" alt="LLM-s in context">
+  <figcaption>source: https://medium.com/womenintechnology/ai-c3412c5aa0ac </figcaption>
+</figure>
