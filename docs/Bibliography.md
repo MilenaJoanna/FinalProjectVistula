@@ -22,7 +22,7 @@ nav_order: 8
  
 - [LLM Training](https://www.run.ai/guides/machine-learning-engineering/llm-training)
 
-- [Transformers — Intuitively and Exhaustively Explained](https://towardsdatascience.com/transformers-intuitively-and-exhaustively-explained-58a5c5df8db)
+- [Transformers — Intuitively and Exhaustively Explained](https://rpradeepmenon.medium.com/introduction-to-large-language-models-and-the-transformer-architecture-534408ed7e61)
 
 - [How do Transformers work?](https://huggingface.co/learn/nlp-course/chapter1/4)
 
