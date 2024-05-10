@@ -39,4 +39,4 @@ nav_order: 5
 
 - **personal recommendations** - LLM-based recommendation systems offer users personalized suggestions based on the users' previous preferences and behavior.
 
- <p style= "padding: 35px 25px 5px;"> LLM-s certainly already offer many oppurtunities, and, with the passage of time, and development of AI, these opportunities will probably become even more spectacular. </p>
+ <p style= "padding: 35px 25px 5px;"> LLM-s certainly already offer many opportunities, and, with the passage of time, and development of AI, these opportunities will probably become even more spectacular. </p>
