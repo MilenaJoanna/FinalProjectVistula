@@ -38,12 +38,11 @@ nav_order: 6
   <p style= "padding: 5px 55px 10px 0px;">Personally, I think, that especially the big players in the field of AI, like OpenAI, Google, Amazon etc., will have to demonstrate responsibility in their next steps. <b>"Responsible AI" shouldn't be just an empty slogan</b>. In order to ensure that, there will be a need to keep an eye on the key players, so that they don't start to dangerously resemble the Lord Farquaad from the "Shrek" movie , with his famous quote <q>Some of you may die, but it's a sacrifice I am willing to make.</q></p>
 
  
+<div style="text-align: right;">
  <figure>
   <p><img src="../images/challenges-and-limitations-of-LLMs-screenshot-from-shrek-movie.jpg" alt="screenshot from the movie 'Shrek'" align="right"></p>
-  <figcaption><p style="align middle;">source: screenshot from the movie 'Shrek'</p></figcaption>
-</figure>
-
-<figure>
-  <img src="../images/challenges-and-limitations-of-LLMs-screenshot-from-shrek-movie.jpg" alt="screenshot from the movie 'Shrek'">
   <figcaption>source: screenshot from the movie 'Shrek'</figcaption>
-</figure>
+ </figure>
+</div>
+
+ 
