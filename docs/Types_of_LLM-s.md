@@ -6,7 +6,7 @@ nav_order: 4
 
 # Types of LLM-s
 
-<p style= "padding: 35px 25px 5px;">Depending on what we take into account as criteria, we can distinguish the following types of large language models: </p>
+<p style= "padding: 35px 25px 5px;">Depending on what we take into account as criteria, we can distinguish, among others, the following types of large language models: </p>
 
 - **language representation models** - general purpose LLM models that are trained on huge amounts of text. They can be fine-tuned for specific tasks. Examples of such models are:
   1. **GPT-3 (Generative Pre-trained Transformer)** - developed by OpenAI. It's designed to understand and generate human-like text based on the input it receives. GPT-3 has been trained on a vast amount of internet text and can perform various language-related tasks.
@@ -40,6 +40,7 @@ nav_order: 4
   2. **Claude 3** - developed by Anthropic. Claude 3 comes in three versions: Haiku, Sonnet, and Opus, each smarter than the last. It's Anthropic's first try at multimodal AI and it's a significant upgrade from previous Claude versions that were known for being overly cautious about AI safety. For example, Claude 2's safety measures were so strict that the chatbot avoided discussing many topics, even ones without obvious safety concerns.
 
 
+ <p style= "padding: 35px 25px 5px;"> The above list shows just a small selection of types of large language models. Depending on what we want to concentrate on, there are also other criteria we can use to categorize the LLM-s. </p>
 
 
 
