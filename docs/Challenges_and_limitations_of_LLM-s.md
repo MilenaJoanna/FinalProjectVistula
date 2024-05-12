@@ -44,6 +44,6 @@ nav_order: 6
 
  
  <figure>
-  <p><img src="../images/challenges-and-limitations-of-LLMs-screenshot-from-shrek-movie.jpg" alt="screenshot from the movie 'Shrek'" align="middle"></p>
-  <figcaption>source: screenshot from the movie 'Shrek'</figcaption>
+  <p><img src="../images/challenges-and-limitations-of-LLMs-screenshot-from-shrek-movie.jpg" alt="screenshot from the movie 'Shrek'" align="right"></p>
+  <figcaption><p>source: screenshot from the movie 'Shrek' align="right" </p></figcaption>
 </figure>
