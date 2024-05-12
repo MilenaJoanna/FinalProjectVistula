@@ -9,10 +9,11 @@ nav_order: 1
 <p style= "padding: 35px 0px 5px"> LLM-s are a bit like ogres. Why? Because ogres are like onions. <q>Onions have layers. Ogres have layers.</q> So do LLM-s :)</p>
 
 <figure>
-  <img src="./images/onions-have-layers-screenshot-from-movie-shrek.jpg" alt="screenshot from the movie 'Shrek'" >
-  <figcaption>source: screenshot from the movie 'Shrek' </figcaption>
+  <p style="text-align:center;"><img src="./images/onions-have-layers-screenshot-from-movie-shrek.jpg" alt="screenshot from the movie 'Shrek'" > </p>
+  <figcaption>
+    <p style="text-align:center;">source: screenshot from the movie 'Shrek'</p> 
+  </figcaption> 
 </figure>
-
 
 In a broad sense large language models are an example of **artificial intelligence (AI)** because they aim to simulate human intelligence and skills in a computer system. LLM-s are able to perform language tasks like conversational dialogue, translations or content creation, just like humans do.
 
