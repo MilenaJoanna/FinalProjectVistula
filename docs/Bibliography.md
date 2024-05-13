@@ -30,7 +30,12 @@ nav_order: 8
 
 - [Evaluating Large Language Models (LLMs): A Standard Set of Metrics for Accurate Assessment](https://www.linkedin.com/pulse/evaluating-large-language-models-llms-standard-set-metrics-biswas-ecjlc)
 
-- [Images](https://freepik.com)
+- [How do Large Language Models work?](https://scientyficworld.org/how-do-large-language-models-work/)
+  
+- [Attention is All You Need Paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
+- [AI chatbot got election info wrong 30 percent of time, European study finds](https://www.washingtonpost.com/technology/2023/12/15/microsoft-copilot-bing-ai-hallucinations-elections/)
 
- 
+- [Insight - Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/idUSKCN1MK0AG/)
+
+- [The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work](https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html)
