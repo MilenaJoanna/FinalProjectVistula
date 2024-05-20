@@ -31,11 +31,11 @@ Let's take a look at the components that make up this architecture:
 
 - **positional encoding** - positional encodings are added to the input embeddings to make sure that the original words' order is preserved. 
 
-  This is important because unlike former language models, the language models based on transformers, process the input embeddings not one by one, but analyzes all of them at once. The main advantage of processing the entire input sequence at once (parallelization) is that it allows for capturing long-range dependencies more effectively, which was a limitation of previous sequential models like RNNs. On the other hand, though, problems with information related to words' order may occur.
+  This is important because unlike former language models, the language models based on transformers, process the input embeddings not one by one, but analyze all of them at once. The main advantage of processing the entire input sequence at once (parallelization) is that it allows for capturing long-range dependencies more effectively, which was a limitation of previous sequential models like RNNs. On the other hand, though, problems with information related to words' order may occur.
 
 - **encoder** - the encoder processes the input. 
   
-  The role of the encoder is to capture the complex contextual relationships between words and their meaning. It does it through the attention mechanism by applying the so-called attention layers (**Nx**)  
+  The role of the encoder is to capture the complex contextual relationships between words and their meaning. It does it through the attention mechanism by applying the so-called attention layers (**Nx**). 
 
 - **decoder** - the main task of the decoder is to generate the output in a form that is understandable for humans, for example a sentence translated into another language. 
 
