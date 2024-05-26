@@ -22,7 +22,7 @@ nav_order: 7
   <dd>A subset of AI capable of creating new content (text, images, audio, videos etc.) that resembles real-world data.</dd>
 
   <dt><strong>Hugging Face</strong></dt>
-  <dd>Hugging Face, Inc. is a company from New York City that makes tools for building apps with machine learning. It is known for its transformers library, used for language processing, and the platform where people can share ML models and data.<dd>
+  <dd>Hugging Face, Inc. is a company from New York City that makes [tools for building apps with machine learning](https://huggingface.co). It is known for its transformers library, used for language processing, and the platform where people can share ML models and data.<dd>
 
   <dt><strong>Machine Learning (ML)</strong></dt>
   <dd>A subfield of artificial intelligence that uses algorithms that learn from patterns in data to make predictions without being explicitly programmed.</dd>
