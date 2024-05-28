@@ -7,15 +7,15 @@ nav_order: 1
 
 # LLM training stages
 
-<p style= "padding: 35px 5px 5px;">Training of LLM-s is somehow similar to the way children learn how to speak - they start with words, later they can speak in complete sentences. With time, guidance and feedback, the child learns not only how to speak but also to have conversations and interact.</p>
+<p style= "padding: 35px 5px 5px;">Training of LLMs is somehow similar to the way children learn how to speak - they start with words, later they can speak in complete sentences. With time, guidance and feedback, the child learns not only how to speak but also to have conversations and interact.</p>
 
 LLM training can be divided into several stages:
 
-1. **data collection & pre-processing** - LLM-s need to be trained on (vast amounts of) data. That is why the first step is to collect data and compile a training dataset. The data used for training is typically web-crawled data from various sources, such as websites, books, articles, and open-source datasets.
+1. **data collection & pre-processing** - LLMs need to be trained on (vast amounts of) data. That is why the first step is to collect data and compile a training dataset. The data used for training is typically web-crawled data from various sources, such as websites, books, articles, and open-source datasets.
 
    Then, the data needs to be pre-processed, that is cleansed from as much unwanted content as possible. This can involve getting rid of duplications, personal identifiable information and potentially harmful content. The better the data quality, the better for the LLM training because the well-known principle "garbage in = garbage out" applies also here.
 
-2. **model configuration** - LLM-s are based on transformers, that is deep-learning neural networks. Before the training starts, certain parameters have to be set up for the transformer: the model size,  the number of layers, the number of attention heads, or the learning rate.
+2. **model configuration** - LLMs are based on transformers, that is deep-learning neural networks. Before the training starts, certain parameters have to be set up for the transformer: the model size,  the number of layers, the number of attention heads, or the learning rate.
 
 3. **pre-training** - in this part of the training process, the language model is fed with huge amounts of previously collected and pre-processed data. The task for the model here is to analyze and make sense of it. Since the data is unlabeled, the model learns without explicit guidance. 
    
