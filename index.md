@@ -27,5 +27,5 @@ At its core, LLM-s are **generative AI**. Generative AI are deep-learning models
 
 <figure>
   <img src="./images/LLMsInContext.webp" alt="LLM-s in context">
-  <figcaption>source: https://medium.com/womenintechnology/ai-c3412c5aa0ac </figcaption>
+  <figcaption><i>source: https://medium.com/womenintechnology/ai-c3412c5aa0ac </i> </figcaption>
 </figure>
