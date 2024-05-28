@@ -11,7 +11,7 @@ nav_order: 1
 <figure>
   <p style="text-align:center;"><img src="./images/onions-have-layers-screenshot-from-movie-shrek.jpg" alt="screenshot from the movie 'Shrek'" > </p>
   <figcaption>
-    <p style="text-align:center;">source: screenshot from the movie 'Shrek'</p> 
+    <p style="text-align:center;"><i>source: screenshot from the movie 'Shrek'</i></p> 
   </figcaption> 
 </figure>
 
