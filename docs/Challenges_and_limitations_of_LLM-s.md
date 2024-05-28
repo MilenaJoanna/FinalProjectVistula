@@ -33,9 +33,9 @@ nav_order: 6
 - **impact on the environment** - developing LLM-s requires considerable computational resources, which causes energy consumption and a large carbon footprint.
 
 
-  <p style= "padding: 35px 55px 10px 0px;"> Undoubtedly, <b>the greatest challenge of all seems to be the further development of LLM-s, and everything that will come with it</b>. Apart from many undeniable advantages, LLM-s, and AI in general, can also bring some unexpected risks. New issues will require new solutions and cooperation between various stakeholders. </p>
+  <p style= "padding: 35px 55px 10px 0px;"><b>Apart from many undeniable advantages, LLM-s, and AI in general, will also bring some unexpected risks.</b></p>
 
-  <p style= "padding: 5px 55px 10px 0px;">Personally, I think, that especially the big players in the field of AI, like OpenAI, Google, Amazon etc., will have to demonstrate responsibility in their next steps. <b>"Responsible AI" shouldn't be just an empty slogan</b>. In order to ensure that, there will be a need to keep an eye on the key players, so that they don't start to dangerously resemble the Lord Farquaad from the "Shrek" movie , with his famous quote <q>Some of you may die, but it's a sacrifice I am willing to make.</q></p>
+  <p style= "padding: 5px 55px 10px 0px;">Personally, I think, that especially the big players in the field of AI, like OpenAI, Google, Amazon etc., will have to demonstrate responsibility in their next steps. <b>"Responsible AI" shouldn't be just an empty slogan</b>. In order to ensure that, there is a need to [keep an eye on the key players](https://artificialintelligenceact.eu), so that they don't start to dangerously resemble the Lord Farquaad from the "Shrek" movie , with his famous quote <q>Some of you may die, but it's a sacrifice I am willing to make.</q></p>
 
 
 <figure>
