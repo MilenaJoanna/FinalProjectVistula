@@ -1,17 +1,17 @@
 ---
-title: Evaluating LLM-s after training
+title: Evaluating LLMs after training
 layout: default
 parent: LLM training
 nav_order: 2
 ---
 
-# Evaluating LLM-s after training
+# Evaluating LLMs after training
 
    
-<p style= "padding: 35px 5px 10px;">Like any other machine learning model, the LLM-s need to be evaluated after they are trained to see if the training was successful.</p>
+<p style= "padding: 35px 5px 10px;">Like any other machine learning model, the LLMs need to be evaluated after they are trained to see if the training was successful.</p>
    
    
-For LLM-s there are 2 main types of evaluation methods - <b>intrinsic</b> and <b>extrinsic</b>:
+For LLMs there are 2 main types of evaluation methods - <b>intrinsic</b> and <b>extrinsic</b>:
 
   In <b>intrinsic methods</b>, the language model is evaluated only on specific types of tasks which are directly related to its training objectives. Examples of commonly used intrinsic evaluation metrics are among other things:
 
@@ -21,17 +21,17 @@ For LLM-s there are 2 main types of evaluation methods - <b>intrinsic</b> and <b
    
   - **BLEU (Bilingual Evaluation Understudy)** - is a common measure in machine translation. It looks at the translated text and compares it to one or more reference translations to see how similar they are.  
    
-  - **ROUGE (Recall-Oriented Understudy for Gisting Evaluation)** - checks how good LLM-s summarize the texts.
+  - **ROUGE (Recall-Oriented Understudy for Gisting Evaluation)** - checks how good LLMs summarize the texts.
    <br><br>
    
 
 In <b>extrinsic</b> methods, the language model is evaluated on how well it performs in real-life scenarios not explicitly covered during training. Extrinsic methods also incorporate human-in-the-loop testing. Examples of commonly used extrinsic evaluation metrics are among other things:
 
-   - **questionnaires** - the LLM-s are given questions that people would normally answer and their responses are compared to those produced by humans.
+   - **questionnaires** - the LLMs are given questions that people would normally answer and their responses are compared to those produced by humans.
    
-   - **common-sense tests** - test if the LLM-s can make common-sense guesses, just like people would do.
+   - **common-sense tests** - test if the LLMs can make common-sense guesses, just like people would do.
    
-   - **multitasking** - checks how LLM-s can handle different tasks requiring knowledge from different fields, like math, law, history, geography etc., all at once.
+   - **multitasking** - checks how LLMs can handle different tasks requiring knowledge from different fields, like math, law, history, geography etc., all at once.
 
 <br> 
 
