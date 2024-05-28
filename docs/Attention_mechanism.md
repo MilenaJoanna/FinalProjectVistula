@@ -1,7 +1,7 @@
 ---
 title: Attention mechanism
 layout: default
-parent: How do LLM-s work?
+parent: How do LLMs work?
 nav_order: 2
 ---
 
